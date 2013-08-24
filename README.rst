@@ -15,6 +15,9 @@ Visualize ticket statistics of redmine_ or chiliproject_ in munin_. This plugin 
   - Open Tickets by user
 
 
+.. image::  https://raw.github.com/saily/redmine_stats/master/example.png
+
+
 Configuration
 =============
 
