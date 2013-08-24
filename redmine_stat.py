@@ -12,7 +12,7 @@ import MySQLdb
 
 class RedmineBase(object):
 
-    graph_category = "chiliproject"
+    graph_category = "redmine"
     graph_args = "--base 1000 --lower-limit 0"
     graph_vlabel = "tickets"
 
