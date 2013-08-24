@@ -37,6 +37,8 @@ Open ``/etc/munin/plugin-conf.d/munin-node`` and add following lines::
 If you omit environment variable for hostname ``127.0.0.1`` is used by default,
 if you omit environment variable for port ``3306`` is used by default.
 
+Don't forget to restart ``munin-node`` after adding the new plugin.
+
 
 Todo
 ====
